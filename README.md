@@ -5,4 +5,4 @@ This is a directory where taking the notes of the paper, especially for some idi
 Admittedly
 in comparison to		--->	"compared to"  
 an ensemble		--->	"combination"  
-an ensemble		--->	"combination"  
+ 
