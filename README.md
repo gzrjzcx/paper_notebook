@@ -3,9 +3,6 @@ This is a directory where taking the notes of the paper, especially for some idi
 
 ### EPCC Semeter 2
 Admittedly
-in comparison to		--->	"compared to"
-
-an ensemble		--->	"combination"
-### 
-an ensemble		--->	"combination"
-### 
+in comparison to		--->	"compared to"  
+an ensemble		--->	"combination"  
+an ensemble		--->	"combination"  
